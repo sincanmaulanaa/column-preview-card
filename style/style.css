@@ -326,7 +326,7 @@ button:hover {
 	.col {
 		margin: auto;
 		width: 90%;
-		float: left;
+		float: none;
 		padding: 30px;
 		padding-top: 50px;
 		box-sizing: border-box;
